@@ -56,5 +56,5 @@ It helps HR teams make data-driven decisions around retention, workforce plannin
 ---
 
 ## 🖼 Dashboard Preview
-*(Upload the screenshot as `hr_analytics.png`)*
+*(Upload the screenshot as `HR ANALYTICS DASHBOARD .png`)*
 
